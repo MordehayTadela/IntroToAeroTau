@@ -16,7 +16,7 @@ This section focuses on the aerodynamic analysis of the symmetric **NACA 0012 ai
 
 ###  Notebooks:
 - [NACA0012 Analysis](notebooks/NACA0012analysis.ipynb)  
-- [Source Panel Method over NACA0012](notebooks/Source_Panel_method_over_NACA_0012_airfoil.ipynb)
+
 
 ---
 
